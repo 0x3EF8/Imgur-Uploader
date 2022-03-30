@@ -1,0 +1,26 @@
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\bin\Debug\Imgur Uploader.exe.config
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\bin\Debug\Imgur Uploader.exe
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\bin\Debug\Imgur Uploader.pdb
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\bin\Debug\Imgur Uploader.xml
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\obj\Debug\Imgur Uploader.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\obj\Debug\Imgur Uploader.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\obj\Debug\Imgur_Uploader.Form1.resources
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\obj\Debug\Imgur_Uploader.Resources.resources
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\obj\Debug\Imgur Uploader.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\obj\Debug\Imgur Uploader.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\obj\Debug\Imgur Uploader.exe
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\obj\Debug\Imgur Uploader.xml
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\imgure Uploader\obj\Debug\Imgur Uploader.pdb
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\bin\Debug\Imgur Uploader.exe.config
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\bin\Debug\Imgur Uploader.exe
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\bin\Debug\Imgur Uploader.pdb
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\bin\Debug\Imgur Uploader.xml
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\obj\Debug\Imgur Uploader.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\obj\Debug\Imgur Uploader.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\obj\Debug\Imgur_Uploader.Form1.resources
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\obj\Debug\Imgur_Uploader.Resources.resources
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\obj\Debug\Imgur Uploader.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\obj\Debug\Imgur Uploader.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\obj\Debug\Imgur Uploader.exe
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\obj\Debug\Imgur Uploader.xml
+C:\Users\Administrator\Desktop\New folder\Imgur-Uploader-master\imgure Uploader\Imgur Uploader\obj\Debug\Imgur Uploader.pdb
